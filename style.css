@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: F1F3E0;
+}
+
+
+
+nav{
+    background-color:#BBCB64;
+    color: black;
+    
+    
+}
+
+.header{
+    background-color: #BBCB64;
+    height: 50px;
+}
+li,h1,ul{
+    display: inline;
+}
+
+ul{
+    padding-left: 60%;
+}
+
+li{
+    color: gray;
+}
+
+li:hover{
+    color: black;
+    cursor: pointer;
+}
+
+input{
+    width: 60%;
+}
+
+.searchbar{
+    text-align: center;
+    padding: 50px;
+    height: 20px;
+}
+
+
+.box{
+    
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+  
+}
+
+.a{
+    height: 250px;
+    width: 250px;
+    
+
+}
+.product{
+    text-align: center;
+}
+
+.box:hover{
+    background-color:#628141;
+    color: aliceblue;
+}
+
+.about{
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    background-color: #D2DCB6;
+}
+
+.contact{
+    text-align: center;
+    background-color:#A1BC98;
+    padding: 10px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
